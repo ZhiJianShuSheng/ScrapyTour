@@ -15,4 +15,5 @@
 
 ## 笔记
 
-[Scrapy 和 scrapy-redis 的区别](./Note/Scrapy 和 scrapy-redis 的区别.md)
+
+[Scrapy 和 scrapy-redis 的区别](https://github.com/ZhiJianShuSheng/ScrapyTour/blob/master/Note/%20Scrapy%20%E5%92%8C%20scrapy-redis%20%E7%9A%84%E5%8C%BA%E5%88%AB.md)
